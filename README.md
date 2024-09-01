@@ -51,13 +51,30 @@ Define a Python class representing a car with attributes `make`, `model`, and `y
 ### Prerequisites
 - Python 3.10.12
 
-### Steps to Run the Application
+# Python Coding Assessment
 
-1. **Clone the Repository**
+## How to Run the Application
+
+To run the Python assessment script, follow these steps:
+
+1. **Clone the Repository:**
+
+   First, clone the repository to your local machine using the following command:
+
    ```bash
-   git clone https://github.com/your-username/python-assessment.git
-   cd python-assessment
-## Run the Script
+   git clone <your-repository-url>
 
-```bash
+Navigate to the Project Directory:
+Move into the project directory where the assessment.py file is located:
+bash
+cd <your-repository-directory>
+
+Run the Script:
+Execute the Python script to run the tests for each function:
+bash
 python assessment.py
+
+Expected Output
+When you run the script, it will execute the test cases for each function and class, and print the results to the terminal.
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
