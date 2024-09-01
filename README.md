@@ -63,18 +63,21 @@ To run the Python assessment script, follow these steps:
 
    ```bash
    git clone <your-repository-url>
+## Navigate to the Project Directory
 
-Navigate to the Project Directory:
-Move into the project directory where the assessment.py file is located:
-bash
+Move into the project directory where the `assessment.py` file is located:
+
+```bash
 cd <your-repository-directory>
 
-Run the Script:
-Execute the Python script to run the tests for each function:
-bash
+ 
+ 
+## Run the Script
+
+```bash
 python assessment.py
+
 
 Expected Output
 When you run the script, it will execute the test cases for each function and class, and print the results to the terminal.
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
